@@ -1,0 +1,13 @@
+{
+  "ABCname": "ELHname",
+  "ABCage": "ELHage",
+  "ABCaddress": "ELHaddress",
+  "ABCaddress.ABCstreet": "ELHaddress.ELHstreet",
+  "ABCaddress.ABCcity": "ELHaddress.ELHcity",
+  "ABCaddress.ABCpostalCode": "ELHaddress.ELHpostalcode",
+  "ABCHealth.ABCHealthX": "ELHTreatment.ELHHealthX",
+  "ABCHealth.ABCHealthY": "ELHDiagnosis.ELHHealthY",
+  "ABCHealth.ABCHealthY.ABCTreatment.ABCTreatmentQ": "ELHRecommendation",
+  "ABCHealth.ABCHealthY.ABCTreatment.ABCTreatmentZ": "ELHException",
+  "ABCfavouriteCountries": "ELHfavoriteCountries"
+}

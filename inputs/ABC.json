@@ -1,0 +1,18 @@
+{
+  "ABCname": "John",
+  "ABCage": 10,
+  "ABCaddress": {
+    "ABCstreet": "Street 1",
+    "ABCcity": "Portland",
+    "ABCpostalCode": "7557-40"
+  },
+  "ABCHealth": {
+    "ABCHealthX": "XXX",
+    "ABCHealthY": {
+      "ABCTreatment": {
+        "ABCTreatmentQ": 0,
+        "ABCTreatmentZ": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+   name: "John",
+   age: 10,
+   address: {
+       street: "Street 1",
+       postalCode: "7557-40"
+   },
+   favouriteCountries: ["Portugal", "Spain"],
+   nestedObject: { x: { y: { z: {w: "property" } } } }
+}

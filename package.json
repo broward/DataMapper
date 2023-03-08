@@ -1,0 +1,18 @@
+{
+  "name": "poc2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.3",
+    "flat": "^5.0.2",
+    "flatten": "^1.0.3",
+    "jsonfile": "^6.1.0",
+    "pg-tables-to-jsonschema": "^1.0.5"
+  }
+}

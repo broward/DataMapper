@@ -1,0 +1,14 @@
+{
+  "ELHname": "John",
+  "ELHage": 10,
+  "ELHaddress": {
+    "ELHstreet": "Street 1",
+    "ELHcity": "Portland",
+    "ELHpostalcode": "7557-40"
+  },
+  "ELHTreatment": {
+    "ELHHealthX": "XXX"
+  },
+  "ELHRecommendation": false,
+  "ELHException": true
+}
